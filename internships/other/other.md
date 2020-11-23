@@ -5,7 +5,7 @@
 | MLH  | Major League Hacking | Open-Source  | All  |N/A (Age: 18+ years)| NA  |  Any | Rolling  |   | 12 weeks  | Technology  |   |   |   
 | <a href="https://github.com/openmainframeproject-internship/resources/blob/master/README.md">Open Mainframe Project Mentorship Program</a> | The Linux Foundation  | Open-Source  |  All   |  N/A | N/A  | Any  | Till February  | May 1 - Sept 31 |  5 months  | Technology | |   |   
 | <a href="https://www.gssoc.tech/">Summer of Code</a>  | GirlScript India | Open-Source | All  | N/A | N/A  | Any | Jan-Feb  | March 1 - May 31 | 3 months | Technology |   |   |   
-| <a href="https://www.amazewit.in/">AmazeWow</a>  | Amazon | Industry Intermship  | Women | 2nd or 3rd year | >6.5 | CS/IT/Electrical | Till May  | 2nd year - summer / 3rd year - 8th sem  |  2nd year- 2 months / 3rd year-6 months | Technology  |   |   |   
+| <a href="https://www.amazewit.in/">AmazeWow</a>  | Amazon | Industry Internship  | Women | 2nd or 3rd year | >6.5 | CS/IT/Electrical | Till May  | 2nd year - summer / 3rd year - 8th sem  |  2nd year- 2 months / 3rd year-6 months | Technology  |   |   |   
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   
 |   |   |   |   |   |   |   |   |   |   |   |   |   |  
 |   |   |   |   |   |   |   |   |   |   |   |   |   |  

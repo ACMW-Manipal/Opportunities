@@ -1,10 +1,10 @@
 | Scholarship/Event | Organized by | Gender Eligibility | Eligibility - Year of Study | Academic Eligibility | Stream Eligibility | Application Period (Approx) | Application Period (mm/dd) | Program Commencemment | Duration | Stream/Target Area | Brief Description  | Application Experiences |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | <a href="https://www.womentechmakers.com/initiatives">Google Women Techmaker Scholarship</a>  | Google | Only Women | 1st or 2nd (Engineering) | Strong academic record preferred. | IT/CS or equivalent | ends early March | 10 January | July-August | N/A | CS/IT | This program provides a scholarship to the eligible students and a chance to connect with women in tech via a retreat to a Google HQ |  |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
+| <a href="https://wtef.talentsprint.com/#selection">Women Techmakers Engineering Fellows Program  | Talent Sprint + Google  | Only Women | 1st year of engineering | Over 70% in both X and XII | IT/CS or equivalent | late January to early Feb | 01/10 | Feb or March | 2 years | CS/IT | The program is a combination of summer coding bootcamps, live online classes, ongoing mentorship, certification and team-based projects to enhance problem-solving and computational thinking. It also provides exemplary participants with a chance to get career opportunities with high end product companies including Google. |   |
+| <a href="https://scholarships.swe.org/applications/login.asp">Society of Women Engineers Scholarship | Society of Women Engineers | Only Women | 1st to 4th year of engineering | Preferably a strong academic record |  All streams are eligible | December 1st | 12/1 | December 1st 2020 | N/A | N/A | The SWE Scholarship Program provides financial assistance to those who identify as a female/woman and are studying community college, baccalaureate, or graduate programs in preparation for careers in engineering, engineering technology and computer science.|  |
+| <a href="https://research.adobe.com/adobe-india-women-in-technology-scholarship/">Adobe India/Global WIT Scholarship | Adobe Research | Only Women | 3rd year of engineering | N/A | CS/IT/EEE/Math or equivalent | August end to September end | 8/25 | N/A | N/A | CS/IT | Tuition funding, mentorship and GHCI fee |   |
+| <a href="https://buildyourfuture.withgoogle.com/programs/step/">Google's STEP (Student Training in Engineering Program) | Google | N/A | 1st or 2nd year of engineering | Programming Experience | CS\IT or equivalent | Ends around early January | 12/30 | April | 12-weeks | CS/IT | A summer intership at Google |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |

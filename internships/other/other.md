@@ -7,7 +7,7 @@
 | <a href="https://www.gssoc.tech/">Summer of Code</a>  | GirlScript India | Open-Source | All  | N/A | N/A  | Any | Jan-Feb  | March 1 - May 31 | 3 months | Technology |   |   |   
 | <a href="https://www.amazewit.in/">AmazeWow</a>  | Amazon | Industry Internship  | Women | 2nd or 3rd year | >6.5 | CS/IT/Electrical | Till May  | 2nd year - summer / 3rd year - 8th sem  |  2nd year- 2 months / 3rd year-6 months | Technology  |   |   |   
 | <a href="https://developers.google.com/season-of-docs">Google Season of Docs</a>  | Google | Open-Source | All |N/A (Age: 18+ years)| NA | Any | May-June | December | 3 months | Technical writing |  |   |   
-|   |   |   |   |   |   |   |   |   |   |   |   |   |  
-|   |   |   |   |   |   |   |   |   |   |   |   |   |  
-|   |   |   |   |   |   |   |   |   |   |   |   |   |  
+| <a href="https://railsgirlssummerofcode.org/">RGSoC</a>   |RGSoC   |Open-Source   |Women and Non-Binary Students   |N/A   |N/A   |Any   |Jan - Feb 2020 (Call for Projects)   |July   |3 months   |Technology   |Rails Girls Summer of Code is a global fellowship program. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set   |   |  
+|<a href="https://www.learnitgirl.com/">LearnIT Girl</a>   |LearnIT Girl (Sponsored by Github, Google etc)   |CS/IT   |Only Women   |N/A   |N/A   |Any   |Mid January    |March 11   |12 weeks    |Technology   |Mentorship programme to learn new skills and languages; Applications open for both mentors and mentees around the same time   |   |  
+|<a href="https://codingcompetitions.withgoogle.com/hashcode/about">Hash Code</a>   |Google   |Competitive Coding   |N/A   |N/A   |N/A   |Any   |Early January to Late February   |Feb 17   |3 months   |Technology   |Team based programming competition    |   |  
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   
